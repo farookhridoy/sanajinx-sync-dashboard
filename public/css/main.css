@@ -1,0 +1,205 @@
+@import url(https://fonts.googleapis.com/css?family=Actor);
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.header {
+    height: 200px;
+    background-attachment: fixed;@import url(https://fonts.googleapis.com/css?family=Actor);
+
+    * {
+        box-sizing: border-box;
+        font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    }
+    
+    .header {
+        height: 200px;
+        background-attachment: fixed;
+        width: 100%;
+        background-image:
+          linear-gradient(
+            to right bottom,
+            rgba(100, 12, 52, 0.5),  /* Adjust the opacity of the gradient */
+            rgba(30, 100, 333, 0.7)),
+          url('/img/2.jpeg');  /* Local image */
+        background-size: cover;  /* Ensure the background covers the area */
+        background-position: center;  /* Center the background image */
+        background-repeat: no-repeat; /* Avoid repeating the image */
+        filter: drop-shadow(2px 4px 6px rgb(67, 37, 190));  /* Shadow for text clarity */
+        position: relative;
+        text-align: center;
+        color: white;
+        padding: 20px;
+    }
+    
+    .header::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url('/img/bg.png'); /* Path to your overlay image */
+        background-size: cover; /* Ensure the overlay covers the area */
+        background-position: center; /* Center the overlay image */
+        opacity: 0.5; /* Adjust this value for transparency (0.0 to 1.0) */
+        z-index: 1; /* Make sure the overlay is below the text but above the background */
+    }
+    
+    .header img {
+        align-items: center;
+        width: 180px;
+        height: 80px;
+        margin-top: -10px; /* Adjust this value to move the image */
+        z-index: 2; /* Ensure the image stays on top */
+    }
+    
+    .header h1 {
+        text-align: center;
+        margin-top: 12px;
+        font-size: 2.0rem;
+        text-transform: uppercase;
+        text-shadow: 0px 2px 4px rgba(0, 0, 0, .4);  /* Shadow for better readability */
+    }
+    
+    .session {
+        width: 100%;  /* Make sure the session table spans 100% of the container */
+        margin-top: 20px;
+        position: relative;
+        filter: drop-shadow(2px 4px 6px black);
+    }
+    
+    table, th, td {
+        border-collapse: collapse;
+        text-align: center;
+    }
+    
+    th {
+        background-color: black;
+        font-size: 120%;
+        font-family: 'Actor';
+        padding: 10px;
+        color: white;
+        font-weight: 500;
+        border-bottom: 1pt solid black;
+    }
+    
+    #t01 {
+        width: 100%;
+        background-color: #f1f1c1;
+    }
+    
+    td {
+        font-size: 100%;
+        font-weight: 500;
+        padding: 5px 10px;
+        overflow: auto;
+        background-color: #ffffff;
+        border-bottom: .5px solid #b4b4b4;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    button {
+        background-color: orangered;
+        color: white;
+        border-radius: 5px;
+        width: 90px;
+        height: 30px;
+        padding: 4px;
+        cursor: pointer;
+        font-size: 12px;
+        font-family: 'Actor';
+        border-color: orangered;
+    }
+    
+    width: 100%;
+    background-image:
+      linear-gradient(
+        to right bottom,
+        rgba(100, 12, 52, 0.5),  /* Adjust the opacity of the gradient */
+        rgba(30, 100, 333, 0.7)),
+      url('/img/2.jpeg');  /* Local image */
+    background-size: cover;  /* Ensure the background covers the area */
+    background-position: center;  /* Center the background image */
+    background-repeat: no-repeat; /* Avoid repeating the image */
+    filter: drop-shadow(2px 4px 6px black);  /* Shadow for text clarity */
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.header img {
+    align-items: center;
+    width: 180px;
+    height: 80px;
+    margin-top: -10px; /* Adjust this value to move the image */
+}
+
+.header h1 {
+    text-align: center;
+    margin-top: 12px;
+    font-size: 2.0rem;
+    text-transform: uppercase;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, .4);  /* Shadow for better readability */
+}
+
+.session {
+    width: 100%;  /* Make sure the session table spans 100% of the container */
+    margin-top: 20px;
+    position: relative;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+table, th, td {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    font-size: 120%;
+    font-family: 'Actor';
+    padding: 10px;
+    color: white;
+    font-weight: 500;
+    border-bottom: 1pt solid black;
+}
+
+#t01 {
+    width: 100%;
+    background-color: #f1f1c1;
+}
+
+td {
+    font-size: 100%;
+    font-weight: 500;
+    padding: 5px 10px;
+    overflow: auto;
+    background-color: #ffffff;
+    border-bottom: .5px solid #b4b4b4;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+    padding: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: 'Actor';
+    border-color: orangered;
+}

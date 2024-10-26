@@ -1,0 +1,602 @@
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+83
+*3
+$3
+set
+$11
+sessions:10
+$694
+{"id":10,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"wowlolok@1xp.fr","password":"","custom":{},"tokens":{".slack.com":{"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"5ddbd0e01c4cdc1430f520d2e57cc7b2.1723945472","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"5968e2e333756f6d515747dea89458e4fa6d2fe434c0dc404053f0d9674aa432","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.46","create_time":1723945471,"update_time":1723945763}
+*3
+$3
+set
+$11
+sessions:11
+$902
+{"id":11,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"wowlolok@1xp.fr","password":"","custom":{},"tokens":{".slack.com":{"ec":{"Name":"ec","Value":"enQtNzU5MDk5MDY2Nzk3MC1mYTI2NWU0ZTZjYzlkMjk4OWQxYjE3YzdiNjdmN2YwYzFkNWM3ZWYyNDkzY2ViZjIwZjM4MTZlNjFmMzk1ZmY0","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"5ddbd0e01c4cdc1430f520d2e57cc7b2.1723945472","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"f05fb8c2b04f5a0fe7b1bb72241c2ae455ff4f2b3870ff72164c3b2e83782569","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.45","create_time":1723946297,"update_time":1723946350}
+*3
+$3
+set
+$11
+sessions:12
+$420
+{"id":12,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"c22aa8e8976aff04d82bd863fc49bf8a73d37201a81c1b76a98c0c5a4dc0ef88","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.69.194.92","create_time":1723958614,"update_time":1723958614}
+*3
+$3
+set
+$11
+sessions:13
+$383
+{"id":13,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"4c0d3136be2a48aa1ac40bc2f20228fea98fbeb5ea6a499337ab6fa16d9a5c1b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.58","create_time":1723958630,"update_time":1723958630}
+*3
+$3
+set
+$11
+sessions:14
+$1312
+{"id":14,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/BulwPdze","username":"","password":"","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"143-1794184-2568754","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354682185l","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"HQqKMsulMVuFPoxWRaVl84rqPOSV5OJvDhmnBT8nmZlCdU+a9TZRl0N+RpcKpmuvuk/nuqDjwHKW4M0GrPjg6g+0lU96JjjY8rn5wpXhFf3vSMuetRc24jQBV+GnjLQVt/0WqBYe1in0LR5ylZaNFR7UmVBi4wKeaj24mySQLIqcGHOmJhRWqO7C3/PBUWQwitsIQJvQx64lihFGsHpKDhVZDUdql7cseHzPhzRcR0gSWdng5eAJzKlLYgm94rWMLthzvqsfcieD1SC0PtL3cm5wJ3kQZ+EqUadIdaR3XTTouHbLXv3F72QjBvNN6O7vPGnpfOVrAfZePV+LumLZUH0JeFy4hPh/","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"130-2490213-0010861","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"7ccd8f50f2c7e95d8f560d8411449533b3279bc9e74c969eca5e86c1e8622da0","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.62","create_time":1723962183,"update_time":1723962186}
+*3
+$3
+set
+$11
+sessions:15
+$419
+{"id":15,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"c6b9d925f25ae581d1a1d1b352bcc70558e388e0ca60f0d9688e7f4d7f5069b8","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.70.85.65","create_time":1723962209,"update_time":1723962209}
+*3
+$3
+set
+$11
+sessions:16
+$2301
+{"id":16,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"K8RO0Bk+ULgqdBbmCTgQ+fua2b+ivBM9Z911kWeFUew=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"142-6492581-4804868","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354682463l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"rBHGMMVOhiCqVmlVFdy3eCQDkJdl+OCm/2PLX0kFIwgPmfWFLcDMRTrrCQgqc5OHfD65JdFNGp9oPH8wa/tW9KPcZ6vCn9cJpSWRpNCN6Xap5yr1xsLgXePzAWLrwsHMvBTNTl633w79FEa6sSueh41wM4Zr0oBRWF4yfs2XFkf+rlu6zgqLSm3fqP1IQn2XtmyIhx7AP/wJ63FWWSdEL6jIw3JWKCyP1siV/NkjuhFXW9myLXRXDutQQmkYnqULSxfZIzRfGR5JB2nhgdzVzoojltl40lENAGoECQNYJiVhAP94brhHH3oO2WFpe6ZSyBbG93dE7WSTabaTzuJzopEAKPFQRHLa","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQG79f5GrWAGXXRNFNQ9IbAJBwACfwuCEqQYvg0llIrcG0WkHX15qXMnQ3gbdkTIza93jk2qptLyesAY9sL8rvYyJqr_sap8r60Ht-wlKfauxMZ2o0Jbb61ao8I1WGRbvT0KQTFY1VcAnGLywkOJNMtmNC2i7V1UXibWmL2XuLcrrlDefSbV5vPE1JSWM1ej_2MgS0SxaHO0mIGBFMpxwx3-e7Amr-Oy3j-vrctE7gXvvOtgumNCfBSK1s6Xsry0b5ft","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"134-9924515-4174138","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"TBovwJy@aVUy@VulibzGT2WlhCev0VkHUoRyMvbwDzPJikF1fZRRszdULWGfujhP","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"4d58b092a60241577097e667898d45e732fab38484e0713be96fe9ececc06b5c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.58","create_time":1723962297,"update_time":1723962464}
+*3
+$3
+set
+$11
+sessions:17
+$439
+{"id":17,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"88b7362b348ae9f73b827c9981e6bd85752cbd1c67f48d59b64c9fe1aafe032a","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1","remote_addr":"172.69.107.142","create_time":1723962349,"update_time":1723962349}
+*3
+$3
+set
+$11
+sessions:18
+$420
+{"id":18,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"325fb37acaf4d8acf76a46b7236d009858115524defc8d52460e9b4fe851fead","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.69.194.93","create_time":1723962628,"update_time":1723962628}
+*3
+$3
+set
+$11
+sessions:19
+$432
+{"id":19,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"1c7a51a2247fc05599f465c2829da298e899067ff11e2436d64a711befe71013","useragent":"Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36","remote_addr":"172.69.225.203","create_time":1723962759,"update_time":1723962759}
+*3
+$3
+set
+$11
+sessions:20
+$2280
+{"id":20,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/BulwPdze","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"cTOTEL0A/iz/c/bj+gGPfOLA3xKNLfwih/VncCtRZ6U=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"139-9086377-0325229","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354682961l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"nom8h6TWn7IjrArCxKg5Q8YQmSXosFeEXzqb63A3ZaTQY/nn+iV0OZIkJwsz7aASY+6uq0SRWIoJSIFNdmS9vdKoichXCC6aImWowtRA+kDN2Cepsx1NURulqQmWcv6HmyBdg3zAlpqm6MezljX5PN7WHtelnEmSs9oLpCrN79JfqT54+xAlBPZ5nYycmA4D95vAABFnoxJq7Fgj7jpIXO84UKXs5P6inMEHaBSHBQNVxUc3zeBEdf1LHy3p77BVyN3hiJwybbFKkMaIpmUiAVOxjcF3JB+6NQ9avWxHfG3tZzWzbxd/J0Kt/FTWV20x3Jkld+Vpo/6+5zzgmhneKJJQNV2mI4Gc","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQGmt9b7yez3u102EkqW5k4RBpMP_KbHqh6kHWbQA1UZN1NfgeVW3cC_m0AZF0IAhpkWOI84J0ROqwfJcyjwW5XYT9DjYbjBhxRAkyTWK2n1wWcbXUYkRpEOYH3VqUf2yFd3HfL-Wtr-EkcsTrHyeDc8moy-IvU0UUwDTKClq38Y8Ul-S-9V2FLLVW7D20XrOpCN_FPX85KdQWVNun5AedDg7x1AjgejtxQASzxdeAVURPA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"130-4848762-7251148","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"FeLTEsAOM1QkadQwvMTE5Ly9OXkpyrpHxo9q9Yr1Rnf3peIcglEGxth1x?WKxACH","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"562ff755ab817ee52f74f42c87ca681c170c2e3e3466a5a1cd6cff70ae91b289","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.57","create_time":1723962835,"update_time":1723962961}
+*3
+$3
+set
+$11
+sessions:21
+$1033
+{"id":21,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"wowlolok@1xp.fr","password":"","custom":{},"tokens":{".slack.com":{"b":{"Name":"b","Value":"4dce40ae8f21469383efe90b7ee060ce","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ec":{"Name":"ec","Value":"enQtNzU5NDYxNjExMzM4MC0xMzhlODQ0YThmNmZmOWM3ZTg3NGI3OGU0NWY4ODFlNTA3NzE2ZjRjZTEzY2JmMjYzZDJlNDk2YWVhYWJkMzU5","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"4dce40ae8f21469383efe90b7ee060ce.1724005821","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"f14779e987b6a416339608431de0acff19943cc811e86afb922d1b373b702b70","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.43","create_time":1724005819,"update_time":1724005897}
+*3
+$3
+set
+$11
+sessions:22
+$1033
+{"id":22,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"wowlolok@1xp.fr","password":"","custom":{},"tokens":{".slack.com":{"b":{"Name":"b","Value":"0b0a8becec2deb8087f06033a6dffef6","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ec":{"Name":"ec","Value":"enQtNzU4NTUwOTMzMTg2Mi1kMDJlY2FjNmE2MmM1MzJlY2NiZTY4NjlkNDY4YmFhOTUzNDY0NmMyZDFjZGM1YjUyMTEzNWZjMGZhMThkZjVh","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"0b0a8becec2deb8087f06033a6dffef6.1724006876","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"8335108da62f0721c4797803dfdb69108b9f0ce5d02e815c27fbbd27106803e9","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.49","create_time":1724006875,"update_time":1724006910}
+*3
+$3
+set
+$11
+sessions:23
+$2301
+{"id":23,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"npBpm7EPeXRYGQS5mL334PUK2mS3+x9j/9Lr8ZFylO4=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"142-4545892-4928011","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354727282l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"wuEs8Xik6WDSI6XFD7CVhscIVhAg6i4Wtas6s+GgtC/iHgQp5Wm/nvf67UBF9kfsvurmFtAjj1yAmLNUhrRJqk/xNoIVMK7Qj+3esIyKTUKIVflSTdN9CSfORlpnPsrJwIpjCmJ9dqWm/S+j2DnWB0QzUVDsJiX985ej1IjF74u/fO7oNhgBzbIwAUddEPtmBS6Jxu22vSW+a6Q/D0FAB02f5KC12tnZpRXLSWI84SNwivdMiWyzWfEgq6JkQp5XNRkb7VDRZu2n+/OHqIbe1r7Is76gFoQj3pprNOCyXhQTL29kTyvdRgBgteZGZ8iakyHiKRZqUI/MMfUrIQGdQCvbOaE6tEcg","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQGRQ7iDDf-GaVRAL3Y6uwrCB0VkzXfucGLr2_DJWwbeDOmtRyZBbYNSkXfKQlgu7Ly7q0xS3AXm14rr-fBRy5oK4li_CMyAaqvBGtrctXABOEr4_rtV3tSd2aWZ4V-u5WUkk43ktPfXTr-EiE6ntULXFvPO0eH3L9rfOhVTnW1EvWyh6gl-_lZv0Amk8xR5lzCzicW8jk_ZTbrL6_zXP0N_tjaJ7dBSvGY7jdK17Wj0_qWpvrzdFtY9dob0UREa_HES","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"134-6429797-4914867","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"YFu6HYhwZ7L1Cez4idFCA31o29zv4zhH5r2u9L3O8Tkhy7yqlQq1?TGHNXsIfJqD","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"3a3bd906235ff2f71a1670efe8f48319a28199a9919209daa324c43767efb613","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.58","create_time":1724007153,"update_time":1724007283}
+*3
+$3
+set
+$11
+sessions:24
+$1537
+{"id":24,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"wowlolok@1xp.fr","password":"","custom":{},"tokens":{".slack.com":{"b":{"Name":"b","Value":".222f77926a103fa1f76183f5fbe02ae7","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"d":{"Name":"d","Value":"xoxd-ZfZt5BgPRCz4WAxBnnmFm3MlYzD0rILSyLTKX91rpPlTc4HyY81I%2BoGijvCC77jKw4poPmr38Jm91TO8RZmksRdCS%2Bj9NdefThK8G1%2FMA%2BbSisqWA8uBhRYSTZLV00Nb%2FHPpfwD%2B8fkOdCpuastEltFCjoWtPFDwJ8oS","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"d-s":{"Name":"d-s","Value":"1724007787","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"ec":{"Name":"ec","Value":"enQtNzU4OTI3MzY4NDExNy0wNjUyODgyYjY2OWQ0YjUwNWQzZDMxZGVkZTVjN2JjMjkzODI1ZGU5MGM2MTcwYWRmZmNkODZkNDhmZjdkZGZj","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"lc":{"Name":"lc","Value":"1724007787","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"222f77926a103fa1f76183f5fbe02ae7.1724007685","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"2138ee15f154075681dba85c8fe557edaf169ab07bbb0c9fe15c9000893b795f","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.43","create_time":1724007683,"update_time":1724007793}
+*3
+$3
+set
+$11
+sessions:25
+$2301
+{"id":25,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/BulwPdze","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"RxHGl9vRnrTSbGHRtN5QeDE469pTrMWxEljRHtjpQdU=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"147-9149665-6350351","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354728084l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"8xqIXyLpeKmKJ+pApNDOJEMeP0sWybecqfACmWAIQmi8nLtkXzRlPwfntbyA754yDt08s/iXHB9uE7YndEUCP+wt2zQ2RAKJ5xuaolqOTlfZGYC2qxJ6ApEjWWhoR3gHsxGxZxSBInd8k5j2auZq5PMth/3QCnSWnL5GIL72RQ+6VEHdUxmLuZ524Qljgs3Bj0QeET0IaohD9qgDrtXD/R88zGZAODrbgwDRg58TrjlAHAfWPr0vPTOTxR5u8GLWXFh8GLQFGkjcQyvaPmUvaPlqB0/pFA8++7/AQws7KLnJi8nlobYRNBx4ExKRay4spN3JFgOLLsA53PPNhXa1erv2KxCR6REJ","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQGECMWncpzkug2zTXoBkG1sB0jBCBDzp_bCt4Bi0PvhfT6hmEf201qVgPvmGP5EjXh93gOnVgC4f0sREnLvDw_415A7W_hVuNwWzPuyCNoGqi0_o0fX29n3f8kA_0-37264f438QyebxIGXCBzAWm6L5WnNIqZwgoT5xflhGCfVzN6ZeM3vfQSKhnIsbswKgrqNmilMxtWn6lpX5d6wru9P55KNx-rL4O0BHi4FDaqYyHTra7BOZxIk_Ssi7-kBmw6b","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"134-3453286-4838514","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"56fCsXWpWDWzIHLtbM9IsFVRSOEk1iBSs3ik7sMcmycrM8NwUkYAoVcaOigWZqKA","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"12505d45ffe2475ae717791cafcd8f779a502c4d01053ebf1bd1c0f5b3b8af81","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.59","create_time":1724008048,"update_time":1724008085}
+*3
+$3
+set
+$11
+sessions:26
+$2895
+{"id":26,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/BulwPdze","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"at-main":{"Name":"at-main","Value":"Atza|IwEBIA3nUk4WD3PAq3P_xYVoK5HBhmpBUSwnvEwUXdEbyndv2tEUQPre5NqBJeLFQLenMi1aE6ibgEKkeE4UJP8KnAQRaHZaX-TWM9fTQTIZyPTpkbd8IJ8cqFG7stetqyWJOWr1C5llMGGojcuAA890an8572NfOPfWp98CTFZmYiucUc_qn9fX78ZDFkGc9rAAJFiSTFKsLehumH9dgx8Lx1ZnyjKjA4jeSP3f3_76XGbYzQ","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"i18n-prefs":{"Name":"i18n-prefs","Value":"USD","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"k6A+GIVWsNBY0EanJY1neK5apKkpqZozAWtHza914PY=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"139-8957966-9210320","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354735224l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"L40XKifykgUh8x1qvsjxRsgeJrreGtNB3bG4vGmNuWR2j7tbm+RA44H1c2gLEoAAI47B+R9yIID4Xcb2OWutPDXgcgJWQ7zNKF4civMLcw3sBTUM6e6yMTNLc811PX2kglX25wSVCqeHFGyi2Y19NslYE6+wYgTO5+LdnU6UuK9HNQDAmExTg2muXyo6gQzJIYBPpCMwaM9+PBsXOd/0SB07ON7baW0W/6MKVfAB2nqfxmW3P4RCNIPan/h0UxHK8eIiDcRD9iKDZUu3D0sqLO+Sn8ilEGsjglrIKN8h3P7P332X66TOpKyJSUxFCWYlko3fW3yQQy02Kwubm85wr694BoZjEAQy","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sp-cdn":{"Name":"sp-cdn","Value":"L5Z9:MD","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQFyR-8viZqrAlfm2V72f6lGBxu49yXdd7R4gvXiMvGn8ZbRbBGJ6Ba7tTU03B7k5JEfAYx57KstKjlA1TEvvb-Wot4WY17yZHBQnMwHE-UX9Ghvsxx3ISDfeh_zRWY-JyNLZMw6YsiKtM3YPhlAEkj4LrmRZhlDhHJ4-qzmxNebDlVvsfkiqvuVYrdC1Vp5T_QogiUUgiJ96iKLHbN8OW3AlflvUo8wJ2K2klG3S4oTa6Ltlku71YMwEw3g_JSXo6OZ","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"134-7381349-4433738","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"fzKOM9pbbQiI?cMhT4uHbcI49FJQHIYBI?ITxXAcdGGlFbt0UB6soPPe@qFSyzEg","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"bea3415b420113e7add5d54390cce17f6deb5b79447c7a6272beff3d65709aff","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.59","create_time":1724015159,"update_time":1724015224}
+*3
+$3
+set
+$11
+sessions:27
+$2728
+{"id":27,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"at-main":{"Name":"at-main","Value":"Atza|IwEBIIzAv9cLwc9FUxQ-MMRm_jyVpLyYbpo5jSjTl5KYdoH8S1a4fR2ApJ_0ZyFJjzZikRH8tOI2fzoHiCOI-4c2bpx2sigYtA-_9fVLr1bGfK3ZEw0O_xaOim1tTg_vuUOS9CRcUriV0WhNETvYtqc-gfvvF-oTQS-2_rOQLJ_xypYrrOWJ25DeEFSJZhYMyzL5VkfyXZl17CzzUk5uc_tuEEKoMqzjUL2WExT3x1E_aXfhlA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"i18n-prefs":{"Name":"i18n-prefs","Value":"USD","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"lc-main":{"Name":"lc-main","Value":"en_US","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"kA0gKwAmLXJEKw7IdGSA9s5NfCbwMCclvPyWvg33Ljg=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"138-2168250-5339515","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354739089l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"H/BgVAadRUtA0KIKpf3akKlQj+FxDCdR4q6ckv0sjjJganZXmb+D1xefk2B44soUJklg6POQv5m1f8vzbZy5caoSDz1JJz2zpFFW4VYSj6QCBvgkLLQn3JpyGNnvQhTG3Kta62fGNcMj/eWJVcxVbcbIWRQ8U3beN2CyLG3ooJ4f1OxE/q0DgdeUHRDyBaenHtoqOXLaeQwDOE7AcCokP8RSbWYVGQqOYSvAoeogN/FGgLdCu0C14K/3s7V5QlngRAH0iq1to4yDlYP6k6AkAH1be+tSXOPRbhafrKnQax5alT0LW9ItclidjrH/yGdJmFPvbYdjl7nZzqBBhTdQhprZxPDxMpXZGxEhtDi4gd0NemTAfxlVCA==","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQE1sfV9DDzEu_vD-Bh1lW9jCWl473JYgrjWkZawnjOEF-N4qtLCp9osO5iZJa1rEgsU-Yr6TAJGYCNusO7eM4-Vijj1r083TNWlGGNqzIi6_jVdhLoLWT643u9t9LLr7ibOc-RkfiJ-1gDV0HcutkjcYyBd0qfaWH52jxixEsUAyeVMxhhINDY66kt6zPuusNtEC3tneBCfsY58NqaJtVA128iaFt-w1NWcEYxGSbSLCve6iRq-y3ipDUOqP7PW9k9l4mRTxD3_8mTJAZfwKwU2nPtakmTZnKcZAqSeYO141o8","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"132-7400566-7254224","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"WDNxkUk5VJx4aKnIBn6jSCszLjAT4vECeQfmbvrWnoqzUDbTxXA6APfeV01Cc0y2","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"1d6feb298c59e97087aa10871b6c1d469e72f9be517d5c9cf36cecd6bd3d43a7","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.58","create_time":1724019068,"update_time":1724019092}
+*3
+$3
+set
+$11
+sessions:28
+$1162
+{"id":28,"phishlet":"aws","landing_url":"https://signin-aws.vafy0365.cfd/ayOMYyRf","username":"","password":"","custom":{},"tokens":{".amazon.com":{"aws-ubid-main":{"Name":"aws-ubid-main","Value":"101-4077150-6014705","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},".signin.aws.amazon.com":{"aws-signin-csrf":{"Name":"aws-signin-csrf","Value":"rXDAAJ9rMxaHSIYuEBqBSwl0rrCFNlHci6cGp3CNvUeyz2UeuFZ9jEPyDD75IJy7Cgt2HJtlRByyp4mxoGLLlPI24NkULynzkpcxgSYYZKWgcYknxzpOgUZMLIXY4jWnQLadBq4gHWbklse4jVCTxFwyJLgZqPzHw3GNHQWfvWggld4kkntb7WHJo7jqkK2decLmZ18CEP3XHWpIcnKtc4bu5DYtpdEu8R4NQb4d0GzQWzJC4E0JN2QD1L6gtuZq","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0}},"signin.aws.amazon.com":{"JSESSIONID":{"Name":"JSESSIONID","Value":"07B5E88FD25288D3C6806E98B5028AA8","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"93c9b8b9d857f826bde8dd6cbaf48580e0b7f3b9223f8ee466a603372cbb639e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"162.158.186.126","create_time":1724021983,"update_time":1724022006}
+*3
+$3
+set
+$11
+sessions:29
+$1029
+{"id":29,"phishlet":"aws","landing_url":"https://signin-aws.vafy0365.cfd/ayOMYyRf","username":"test-wrong-info@amazon.com","password":"","custom":{},"tokens":{".signin.aws.amazon.com":{"aws-signin-csrf":{"Name":"aws-signin-csrf","Value":"0DRYLP9cOCxot6pl7j0FrPJuLMQyHC0M8MjLY68O24ArRV7y8VNQS3CeFHtct8BsP2lbJLq3IHWmLpy53TMKAxHalvLxDZ4t0ygweUaLFjFJ9oAa4vyVkZLa6BPGqvo8c482D9IAmtEA3ZV3YCBBi0xIpXhxui9lWSCQ2YGUX7U9OBib9ZPZcXpEmxlQIa8OiOQzHUkBQUGg0YmIC7DUICK7Lia8hLW82EiY6gfADjLcGNbrMA8IPJD5ODT4kCNw","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0}},"signin.aws.amazon.com":{"JSESSIONID":{"Name":"JSESSIONID","Value":"CFA9CBD476F0FEA9FA995AFB06047D3F","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"b696167fcf43c0ccb588afc140157714347f9c9b372c22704d1f86c5127cf0d6","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.42","create_time":1724022424,"update_time":1724022446}
+*3
+$3
+set
+$11
+sessions:30
+$1531
+{"id":30,"phishlet":"slack","landing_url":"https://vafy0365.cfd/lDkeOVVr","username":"wowlolok@1xp.fr","password":"","custom":{},"tokens":{".slack.com":{"b":{"Name":"b","Value":".d532198d19120d678f0b9a51daa9656c","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"d":{"Name":"d","Value":"xoxd-BJdlQKS2P5D6xYIuSaIWE98wBExbBXXVroxoIyq3UYQpIxpZQcLAuXdXr9txXM9t2Hd5LcGufV7q1q0wToMRSOQuCOPdoy5FBuJj36Wx4b3LlAhDNs4ci7EPnH0A487TVAuy%2BlhIDq6U6YLAJpeGjZI%2B1%2FsEfFyo9NP4","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"d-s":{"Name":"d-s","Value":"1724023685","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"ec":{"Name":"ec","Value":"enQtNzU4NTgzMjQ2MTE5MC0wYTFkNmVlMjMzODdlYTUxNWZkN2M3ZDU3NGU1ZDNkNzA2MTdhZDg5ZDExMGI1ZGNmYmY2MGVhNDBjYjQ4MWU0","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"lc":{"Name":"lc","Value":"1724023685","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"d532198d19120d678f0b9a51daa9656c.1724023635","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"7eed16b5d612d6645de94e030b5def8aff0b80e3fca44238114d6f955f10dc49","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.45","create_time":1724023633,"update_time":1724023688}
+*3
+$3
+set
+$11
+sessions:31
+$383
+{"id":31,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"471d90f5685341a9584137e34d251f86680a169e1e2c836524d915848c0c77ba","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.134.97","create_time":1724032535,"update_time":1724032535}
+*3
+$3
+set
+$11
+sessions:32
+$432
+{"id":32,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"2081986f6db7d5c727b60cb048307c952601700f933591f2ef4b49be5a698055","useragent":"Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36","remote_addr":"172.68.195.154","create_time":1724032704,"update_time":1724032704}
+*3
+$3
+set
+$11
+sessions:33
+$383
+{"id":33,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"dce17893643ed574f1f41daf6ddfaf4d18b7fcfd04f87d88922beed097d1dfed","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.58","create_time":1724033337,"update_time":1724033337}
+*3
+$3
+set
+$11
+sessions:34
+$721
+{"id":34,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"130-8459613-4582909","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354753587l","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"02259aff5795bc3712aaaa9124b6e131df76baa7a78f28a8fe27b4a06e9fde40","useragent":"Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36","remote_addr":"162.158.110.15","create_time":1724033344,"update_time":1724033588}
+*3
+$3
+set
+$11
+sessions:35
+$2895
+{"id":35,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/nJbGhLIC","username":"sana.ali888999ali@gmail.com","password":"SanaSana4321","custom":{},"tokens":{".amazon.com":{"at-main":{"Name":"at-main","Value":"Atza|IwEBIGOtmkyZcoA1vMjtc5wJ0LdSGjdUnJitCV8j8WuJ--XqX9Iv1RB97FsNMtD4Ig_V46TROxQYMg4y5Rp4XT81nm5v9K1mWwcURirE7OnvEtMLl4c6Hfmuf6LTQi_peQldrw6EjuYojH7dvb-4e73sqPpWNmdAYIr5mhhprMAxgYFX8JsAu5EVs26vtvCpBXXgtuq52VHdaxrQhAVjoV7eWNIF88k0IGcw5gboPfC5FkizEg","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"i18n-prefs":{"Name":"i18n-prefs","Value":"USD","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"+/L2si4lg5BXgiaOvPCNdj9D+B/ozrS51QGLxcshRZ0=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"133-6533208-3770164","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354858401l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"ffilbQGq6cKzzUQNW+o9RLi5nGlzGX1twc+gusxyJ2O+zW5JOHOzDDLpCUg845Oek4xcDi2X1Lxn54Jc2vz2cjIo8bV3HOyuLsVhqssA/sj65Zkk6R+0fatRdjegZQcGtNWky+LPUkrGYgBY0CIBTUmiObXTPbmTDBWc5hCtEck0GVpvOiKp57nE/1ulyiye6wp98g1N0PYyYhxfFfW4i009SzfV/Cf/jK4++GHUyoyj4kxjz3RWF9qCeuVAj5lcPMQWYmHzS2/SI4HSP1yN/ZKFbYio8C5iG3UBwmF1j1fkACCz0aL4Kbqp/tYBw1VEiTZb1PLt9TsD7uZprkTw7V/BSKCwaDi9","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sp-cdn":{"Name":"sp-cdn","Value":"L5Z9:MD","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQEoW20fNFrEMiUQ6dxdbvEdB5mTHmEgbsPeoD7CjgnMnNFFYDHq1xh5FqDX44Y5ivSkXtLg9DPdA0Y1sHgEYSLwCL8xvKFsSyQmB-rbpH02eFkTv9MlMLOvmYTYeW7_PTu7tr0CxQQCb0MAnEh_P5U1j9dlanMwDZFzNMJrciO5UF0GN9TAO2xveVSM9awndslgea7jcCjyr8mdgMvsg39ZqxV95Ja4qQwY0ylL6EdvUwsNRo3H2xDtHrQIczPhRydS","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"133-7148508-3507232","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"ayzkoUE90I32ZrXll@9JJGiT0ulomrQRylizymbAm4d1W85EN5R9lCLDOYiz?8O@","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"e5f378d1eec922a169448a3c4ba4ab946da0381a50e94fdf53093f24cffb3dfb","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.57","create_time":1724138354,"update_time":1724138402}
+*3
+$3
+set
+$11
+sessions:36
+$383
+{"id":36,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"df667b418a8411ddac815e12c8ea61ed69170b581b6d7b130f9622390c66f2ab","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.64","create_time":1724400484,"update_time":1724400484}
+*3
+$3
+set
+$11
+sessions:37
+$383
+{"id":37,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"3967f71d186a7c640879b05d4a332f7374fbbd7963255b6f988571630493867d","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.63","create_time":1724401230,"update_time":1724401230}
+*3
+$3
+set
+$11
+sessions:38
+$384
+{"id":38,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"57eddeef6e471abf702cf521b0d618fb95550bb799d2c4fc48ce24a8e65ee693","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"162.158.186.72","create_time":1724488727,"update_time":1724488727}
+*3
+$3
+set
+$11
+sessions:39
+$386
+{"id":39,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"14b3f0a35170a8034327600c111d8ad8b82e0ca407f071483379ea1f162a4267","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.58","create_time":1724580308,"update_time":1724580308}
+*3
+$3
+set
+$10
+sessions:4
+$2279
+{"id":4,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"sana.ali888999ali@gmail.com","password":"sanAsanA1234","custom":{},"tokens":{".amazon.com":{"lc-main":{"Name":"lc-main","Value":"en_US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sess-at-main":{"Name":"sess-at-main","Value":"Twa6FagkQ7uexWp0m/uj/K7JabXRCG1BdOk8eXFiDKs=","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"session-id":{"Name":"session-id","Value":"143-1794184-2568754","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354661987l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"hBWPdq/pvQ4897O3iC1eKi5YbZoBOuzoh/cUmeTBthuy3Rhuoz8+5EUkxEbLUxBTb7W9H9oUNNCckaNVGcV2iq/Nwp37S9D2+53a7D8XMonRzEJUdNgepdGPoJ6sgqVLu4PL7AWvQ+2Nswh3wKxgTKsKPtAKb128G1Y3CmDwWem0iKbFzNJPZMx9PpGLqO8KNb2aE761/yqqC5S5SlpDXutN3wIDNmZY0UdUpH9KIL4//TWgf3hIclESZOvTpIb5YEG6NLJzbfradeCV/xxMwLXyAPtk0ZoscoOYGOMgcSpZ30LE29MyYJ7LoV6F257jpsOb24/B1XdhGeUmKy0u5sr8Q5Tp3zBS","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"skin":{"Name":"skin","Value":"noskin","Path":"","HttpOnly":false,"HostOnly":false,"Secure":false,"SameSite":0},"sst-main":{"Name":"sst-main","Value":"Sst1|PQFK-VWtmOO7frDulizzUxFhBpTYFg5mee2-tUTNmm58_lGnGp99R6yNHQvaUgx7z5FIB1Gc8N9XKG8Bj16cFlH2IqsOPdn4eNj1-Rcvrp4Z5magG0cAeaQVfFH-bDw1trOcXoKk9kNGQI0zVTTdY_TtSw2SpUlQIZlxnGU3byCC8Gzn5QjGbEuV2ZJiow7qiq_4oH0MERMSSTfWnp9rgYldJbVNjqNH5_9x05i62qUUI14","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"130-2490213-0010861","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"x-main":{"Name":"x-main","Value":"Ich6XNh4b??shqmzv7ahe2Zpwbn2wxNtX7m9?be4Es11YBLRQ9B5kctnsbaP0x9M","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"df3e4a9926aee118ffc13fb35c93b02cf9d7785eb44bf99256be18921f58b2c9","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.65","create_time":1723941724,"update_time":1723941988}
+*3
+$3
+set
+$11
+sessions:40
+$386
+{"id":40,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"860493965421b282ea451dea110b4b64bf29037c83e2239d1cef1e7a355ad23c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.59","create_time":1724580439,"update_time":1724580439}
+*3
+$3
+set
+$11
+sessions:41
+$417
+{"id":41,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"d37dc8fcc156ecbdbca33ad05493cd657ddd15651e07273a60541581ba5cde37","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.64","create_time":1724580508,"update_time":1724580508}
+*3
+$3
+set
+$11
+sessions:42
+$417
+{"id":42,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"83c8c8d3a05427465aaf2971df87575d9da0726b22679ce12a0a96353bee0f9c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.65","create_time":1724580647,"update_time":1724580647}
+*3
+$3
+set
+$11
+sessions:43
+$386
+{"id":43,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"e329567efd0a98c463d9820d679075a301b63d7d868b4e0157229fc1a75c3dac","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.65","create_time":1724580971,"update_time":1724580971}
+*3
+$3
+set
+$11
+sessions:44
+$417
+{"id":44,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"bebc71a9990db1ea4e265b745234e4d95942b2b0fe857aa8c5fd1836aef8f843","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.64","create_time":1724580983,"update_time":1724580983}
+*3
+$3
+set
+$11
+sessions:45
+$417
+{"id":45,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"06d03f07ee337b9f26f859de22f8b813f7872c5d6a393b7cbe9cf676b65478e0","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.65","create_time":1724581140,"update_time":1724581140}
+*3
+$3
+set
+$11
+sessions:46
+$417
+{"id":46,"phishlet":"Ckarma","landing_url":"https://www.vafy0365.cfd/HajyAoZU","username":"","password":"","custom":{},"tokens":{},"session_id":"676bad718edc24201a6726a5eca6eb43671cde67fa8f87b5f6c7d8c684b01867","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.63","create_time":1724581629,"update_time":1724581629}
+*3
+$3
+set
+$11
+sessions:47
+$383
+{"id":47,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"19369d15ef72aecc350a9a20f29a2d2f3c0a9691358ee70c4331c3b5cc813a28","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.63","create_time":1724583331,"update_time":1724583331}
+*3
+$3
+set
+$11
+sessions:48
+$386
+{"id":48,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"7a2b9c2b6e7b3d12b7c29c9d11808443e3a109baf24e36fcef271188f7e89068","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.69.58.57","create_time":1724583352,"update_time":1724583352}
+*3
+$3
+set
+$11
+sessions:49
+$383
+{"id":49,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"4cf782ee483fed3c2e734e35e20a3625de801c0ace5c980841e49ee177202abc","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"162.158.90.85","create_time":1724583406,"update_time":1724583406}
+*3
+$3
+set
+$10
+sessions:5
+$413
+{"id":5,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/iOKRzZFb","username":"","password":"","custom":{},"tokens":{},"session_id":"a9cd96d185079e9bbaa568b28815ab6c481c1edf65888cc312f4fb00b6e4e760","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.57","create_time":1723942118,"update_time":1723942118}
+*3
+$3
+set
+$11
+sessions:50
+$442
+{"id":50,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"a048553c06791fcfd048b97b67a9f135a9e9651889a3d58a19e95c066b12e51e","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/21A340 Safari/604.1","remote_addr":"172.69.37.147","create_time":1724583419,"update_time":1724583419}
+*3
+$3
+set
+$11
+sessions:51
+$383
+{"id":51,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"0c7604b32ebeeb5131953592fb440f199bddb74498596fcb762ece91479c350c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.59","create_time":1724587377,"update_time":1724587377}
+*3
+$3
+set
+$11
+sessions:52
+$415
+{"id":52,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"b81e87c91f54f8dc27644d3734187720c8102613b7c53fdb0627db4fd6306f15","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.186.129","create_time":1724587414,"update_time":1724587414}
+*3
+$3
+set
+$11
+sessions:53
+$384
+{"id":53,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"f2bb21ce7559866ce77b2b73bf6e60ddde31bf16e6de9b13beeb7ca5d7bf841a","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"162.158.187.46","create_time":1724587811,"update_time":1724587811}
+*3
+$3
+set
+$11
+sessions:54
+$440
+{"id":54,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"513e93ee6c1b0905f059a199a3de875396101b6b79f1d265081361da7f39d168","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.69.71.192","create_time":1724602208,"update_time":1724602208}
+*3
+$3
+set
+$11
+sessions:55
+$440
+{"id":55,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"6058df3c269dee87dfe526aa8c4590e061e15ca5cd84a07707c4341d4ec008dd","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.70.126.48","create_time":1724602802,"update_time":1724602802}
+*3
+$3
+set
+$11
+sessions:56
+$439
+{"id":56,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"714c37a8471ea7726423b0c3a2f22601b08e8827e8257064414fc028066ac9d9","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.69.7.166","create_time":1724603749,"update_time":1724603749}
+*3
+$3
+set
+$11
+sessions:57
+$442
+{"id":57,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"4196dd0843af5f93a4b844a4880f71c41058bbf474aa5ad9e2154b438c5923d0","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"108.162.216.110","create_time":1724605223,"update_time":1724605223}
+*3
+$3
+set
+$11
+sessions:58
+$440
+{"id":58,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"6d5cf00d453f53dd8a605dfb81658cc6c9a657edc565878168f673cccf9e717e","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1","remote_addr":"172.70.83.118","create_time":1724605780,"update_time":1724605780}
+*3
+$3
+set
+$11
+sessions:59
+$439
+{"id":59,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"478bfa0dd6f8c7c9965a7bdd24438194b9bead27aeda8bd5153b0a19af1389ab","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.69.6.123","create_time":1724606005,"update_time":1724606005}
+*3
+$3
+set
+$10
+sessions:6
+$380
+{"id":6,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"","password":"","custom":{},"tokens":{},"session_id":"1fd3d4029137ad8453c0cfcc0b764a6e213dfa17bf91c3669382748c81fc8b1d","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.49","create_time":1723942279,"update_time":1723942279}
+*3
+$3
+set
+$11
+sessions:60
+$433
+{"id":60,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"34ad15946c0e205de0858a6d738a5f31c88d870a9873fcc13002d34005f2a2e4","useragent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/25.0 Chrome/121.0.0.0 Mobile Safari/537.36","remote_addr":"172.70.42.54","create_time":1724616306,"update_time":1724616306}
+*3
+$3
+set
+$11
+sessions:61
+$416
+{"id":61,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"7ac3ecd2550772aca87d0e01399944d4092af2322a2be928da79c78c3d51434b","useragent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36","remote_addr":"162.158.174.125","create_time":1724616308,"update_time":1724616308}
+*3
+$3
+set
+$11
+sessions:62
+$434
+{"id":62,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"56b90392465d516a41fffa6100d19eb9eb95e96965869ef4a9c83ac307280de3","useragent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/25.0 Chrome/121.0.0.0 Mobile Safari/537.36","remote_addr":"172.70.80.204","create_time":1724616309,"update_time":1724616309}
+*3
+$3
+set
+$11
+sessions:63
+$441
+{"id":63,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"b213a3627096d3f3789baaca9052e63e2c0a43f9016722724f480eb25f9768ca","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.71.222.125","create_time":1724616709,"update_time":1724616709}
+*3
+$3
+set
+$11
+sessions:64
+$413
+{"id":64,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"05914b383cf7dc081687153ac4d6c0beeb592eab9c65adbdc70026da37cfb9bf","useragent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36","remote_addr":"172.68.71.84","create_time":1724618304,"update_time":1724618304}
+*3
+$3
+set
+$11
+sessions:65
+$441
+{"id":65,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"ca938311ed9808ea0504b60880c0342eb59384bb0b32f8acb40521d8b5720c5a","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.70.210.137","create_time":1724618822,"update_time":1724618822}
+*3
+$3
+set
+$11
+sessions:66
+$386
+{"id":66,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"7bfd05a38bc5ded215803e8e4dc5cae42cea7a7587eaacd48f4d1a9f10a7c9b7","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.69.58.27","create_time":1724620911,"update_time":1724620911}
+*3
+$3
+set
+$11
+sessions:67
+$418
+{"id":67,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"82e139827ddd12c08be387450278fe57dd8d813a7e8246421372518bd14f1a94","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.143 Safari/537.36","remote_addr":"172.70.34.82","create_time":1724622140,"update_time":1724622140}
+*3
+$3
+set
+$11
+sessions:68
+$418
+{"id":68,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"2540bf4a5502bfe1afcfeaf807f59478ae2cb7fe039c5de7635aabb3bbddd1a3","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6523.4 Safari/537.36","remote_addr":"162.158.174.94","create_time":1724623572,"update_time":1724623572}
+*3
+$3
+set
+$11
+sessions:69
+$440
+{"id":69,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"43508664159ff62e6bb27ff57fbb9df72ab59e94d44d8b8857a08b121c45f0d0","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.71.175.18","create_time":1724630746,"update_time":1724630746}
+*3
+$3
+set
+$10
+sessions:7
+$702
+{"id":7,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/BulwPdze","username":"","password":"","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"134-3654623-4661447","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2354662356l","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"043284d8ca1ba831b05c307dde7e692772c421181afa82dd01d14034b46cc5f5","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.63","create_time":1723942354,"update_time":1723942356}
+*3
+$3
+set
+$11
+sessions:70
+$441
+{"id":70,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"2efe86e9bfa6d8f4ca8b2a0cc0f07ce1b3c0f27134f2818449c698eaeffd2cad","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"162.158.158.90","create_time":1724635364,"update_time":1724635364}
+*3
+$3
+set
+$11
+sessions:71
+$383
+{"id":71,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"6e8939ff27f59dd4616ff31fbe24eb6e6b2935f5a21973ddffa1c93718803d2d","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"172.68.229.58","create_time":1724652491,"update_time":1724652491}
+*3
+$3
+set
+$11
+sessions:72
+$441
+{"id":72,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"b9fe5fe9c6e9137b00e1bf5ebbc956dcc90e1414271ef0fd89dcb01b80368b9b","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5.1 Mobile/21F90 Safari/604.1","remote_addr":"172.71.98.183","create_time":1724652755,"update_time":1724652755}
+*3
+$3
+set
+$11
+sessions:73
+$414
+{"id":73,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"2fb1792cf7ea34eaabe66deaff52aa411ffadf5fded2762160f426dce8a5ab65","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.63","create_time":1724652875,"update_time":1724652875}
+*3
+$3
+set
+$11
+sessions:74
+$441
+{"id":74,"phishlet":"amz","landing_url":"https://www.vafy0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"e3c5a56a8ed5dee332f16f8eccd46c2a5c0f4308f722188faee7a44305151bad","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1","remote_addr":"172.70.110.129","create_time":1724659726,"update_time":1724659726}
+*3
+$3
+set
+$11
+sessions:75
+$417
+{"id":75,"phishlet":"amz","landing_url":"https://www.vefy-amzonx.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"cecc0e69152ad372cb524769501b69d8a9d1ee47010bc1bc5b34eb4d7a45562b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36","remote_addr":"104.28.206.59","create_time":1725018509,"update_time":1725018509}
+*3
+$3
+set
+$11
+sessions:76
+$675
+{"id":76,"phishlet":"amz","landing_url":"https://www.vefy-amzonx.cfd/yaNoYjIz","username":"","password":"","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"142-5600584-5940066","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2355739001l","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"f3b128d7660ab7bb59566c3a06a9f97bc90687096f2fc6c15a161b8bae472f49","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0","remote_addr":"104.28.206.59","create_time":1725019000,"update_time":1725019001}
+*3
+$3
+set
+$11
+sessions:77
+$415
+{"id":77,"phishlet":"amz","landing_url":"https://www.accpt0365.cfd/mLSCOerc","username":"","password":"","custom":{},"tokens":{},"session_id":"8fc9dae1f5f925fd4dd1e5cb4483f2024705439f77d0253a0e61f3ed68143d21","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36","remote_addr":"172.68.229.45","create_time":1729507415,"update_time":1729507415}
+*3
+$3
+set
+$11
+sessions:78
+$1314
+{"id":78,"phishlet":"amz","landing_url":"https://www.accpt0365.cfd/yaNoYjIz","username":"","password":"","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"130-6480997-2474254","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2360227481l","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"FCOcOfqGTLFFndc7iKj4EN9bqCvUq0icVTJpUOMb2t0NVHTuhffIazIrzO0nr+OHuEKm1A06fFqARZQzy+s/rPIVGr5fU/qtcRACGn1YGUhm1TeSUtbLvjXdmUrM72qMVNIWzD0W2QI/SFf38VIhTfn2RWL+y55lUkRxxVIz0AlPnOUtgmqLSBL5ehr34atu9vDBg+doaH2wbugzBQs3qoem3dq0V34ftYJa29uBcAWTDKJ/jJljFxwysgAoKb/4xxSWilneTYeWBTVfPmtOEkob/IXt3kTThSYlfnzf77E3PbIympY4yY9E76rVL7iRDF1Nk15b6DxZrvF5HdJHiF8+qwlXkFnmqNhxxsW2Lnz4L8V7xPhH36uRwJ+l6TSz","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"135-2280383-2973322","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"ef540a0f9ef3f0c3f86c4f19fbde5ad1934109c7c3e16a3c4dc2132033cd6e49","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"172.68.229.42","create_time":1729507480,"update_time":1729507482}
+*3
+$3
+set
+$11
+sessions:79
+$1328
+{"id":79,"phishlet":"amz","landing_url":"https://www.accpt0365.cfd/yaNoYjIz","username":"hxoljroudbfj7@hotmail.com","password":"lllllllllllllllll","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"146-3075139-4393866","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2360228219l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"OZzU+SI+I02cIFcy6I7urQcB/Tz/sKHEduuvipKDs1OraNPq2tpAhizo/s9vIKrQHa2wuEnYn6zx/xc1kN7EPC+rcXl2O9eH2/w2KCN75FHwzqxaMn9KhIC5ZVO2sZGTflo/k/+iD+ghQa9IyUePFN4NOFDN8tjXU8CD017C0+2ubmqT/yLi0aVmXLxclqfOMJIVnaSWdxV1XZfA6w5l6QUy7xVho8fCxARQmXOyle2+9+3+e8FXX1CYkx7+Q3XGr33GLutM8yAwP3cPDuT1ZXc/typL5i5WJOUCSDYRl/ufvduPv2YrzXtEhrF2CV47b7JS+IQIyJjiywgpg/bvAsvxaiwG3N8K","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"132-4580119-1931543","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"e278fb72a8b6af1f92ed688c5e93c19309b550b45b91b8d3126b304ff2bc0396","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"172.68.229.42","create_time":1729507498,"update_time":1729508220}
+*3
+$3
+set
+$10
+sessions:8
+$411
+{"id":8,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"","password":"","custom":{},"tokens":{},"session_id":"4e38c6cba55a736885c45e89a76373654e5c1a665fc485a6cbdb5d19f5c18684","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.68.229.44","create_time":1723943306,"update_time":1723943306}
+*3
+$3
+set
+$11
+sessions:80
+$1321
+{"id":80,"phishlet":"amz","landing_url":"https://www.accpt0365.cfd/mLSCOerc","username":"hxoljroudbfj7@hotmail.com","password":"dqsdqdqd","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"140-4819194-8748005","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2360228472l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"/IyAwKi9NSgaFJfMUdx+AxqgRC55+LYJ34K3VJSxOS6e7YNQ7avC98mhMJ4ignSptYxSLv4IwYix3PNZ0bIHUhIf7lkwh5Je9DEptezFMGr2QLFKnMzO7ZHn1+bfL/VjX7ViozmtkziSUowni9TlBgIxsDvgjGU3ZJqO5wEtVhw1vUc83jBcGe6qoPKmYWynW1ZHHT5RKQamr8ti5XDSn+o1evg3sjYEvcXnW34Wk+8r4ZJfykn855E7WLZsUOKnkS6d8kFmNWG4hRuiZZYqU0l4FCdpHbQHMCG9enBEePWPk3ao8O5J4LKj3xyty3DBo8ZW9Fy3TMGCpVapbiOn0E3CWseQ1/wx","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"133-4867186-3394218","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"85934ee492d6077f13b3ba635d7448553a8a2ebfa5920f9f9a08c3a50d14b49f","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"141.101.105.161","create_time":1729508370,"update_time":1729508472}
+*3
+$3
+set
+$11
+sessions:81
+$1322
+{"id":81,"phishlet":"amz","landing_url":"https://www.accpt0365.cfd/yaNoYjIz","username":"hxoljroudbfj7@hotmail.com","password":"qdsdqsdqsd","custom":{},"tokens":{".amazon.com":{"session-id":{"Name":"session-id","Value":"140-4819194-8748005","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-id-time":{"Name":"session-id-time","Value":"2360228682l","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"session-token":{"Name":"session-token","Value":"d5EFd6eiRXvS/wrw1qeeqO0wQgI+FMdXGsFulmuChNCPomqEwGev6XiKENkMCzLBRRsRoJ5IM1rJLmMEUwznZBfx0J4pVF90ik/L9pglRSlrdGCxmiQMDSKV0Ad1V4CXwj3XldR+xmO6yGhShD0xvA3aUXTU8x54jdBtXdoIVWib01QSOBzxnlJzwcSMwAWM7fktDNZnMULe8AxdMO1GSpCBHs+PcfQUA8CdjTQnvtMirigX0vM7R9TyIPSLecAIoMmkiZ0z1TI1dECl3OziyvHQ08tiyJuowRsqPU1I6EYEHCLv95yQG/9oAZQ/qPVHzY5K61keQxKGLysBJIkIEl/EtQNWMnQw","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"ubid-main":{"Name":"ubid-main","Value":"133-4867186-3394218","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"ecaeaa64b624ef050230d173c6b16e283dffe76cacd834d0239549b66888c11c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"141.101.105.73","create_time":1729508543,"update_time":1729508683}
+*3
+$3
+set
+$11
+sessions:82
+$419
+{"id":82,"phishlet":"o365","landing_url":"https://login.accpt0365.cfd/MdlGnwgp","username":"","password":"","custom":{},"tokens":{},"session_id":"486a5741c05ece822509b6008fdd91443f3c938191e092eab3b67e93e7efe2f3","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36","remote_addr":"162.158.90.220","create_time":1729561352,"update_time":1729561352}
+*3
+$3
+set
+$10
+sessions:9
+$1038
+{"id":9,"phishlet":"slack","landing_url":"https://vafy0365.cfd/VXJAieqR","username":"rosiehayman3@gmail.com","password":"","custom":{},"tokens":{".slack.com":{"b":{"Name":"b","Value":"fcc51b876b002cb19cf3a482b4bbde61","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ec":{"Name":"ec","Value":"enQtNzU3NjQwNDY1Mzc2Ny0yN2IyZDBkMDgwODEzZDVhY2M4ZGU1ZmNlNTk2MjM2YmU2OTBkOTVlNzc0ODk3MzIxZjEyZDExMjYxMDY3ZmQ4","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"utm":{"Name":"utm","Value":"%7B%7D","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"x":{"Name":"x","Value":"fcc51b876b002cb19cf3a482b4bbde61.1723943885","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"bf920847a536ec02885c435e36b24856010374ebb76b75d73ca120240d1f68cc","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36","remote_addr":"172.69.7.187","create_time":1723943883,"update_time":1723943935}
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+84
+*3
+$3
+set
+$11
+sessions:83
+$388
+{"id":83,"phishlet":"o365","landing_url":"https://login.accpt0365.cfd/MdlGnwgp","username":"","password":"","custom":{},"tokens":{},"session_id":"20d5b3276c35d2c9eb96d9405815b093e83d542d111d93aa3fadd4f872ad707e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"162.158.90.211","create_time":1729562990,"update_time":1729562990}
+*3
+$3
+set
+$11
+sessions:83
+$408
+{"id":83,"phishlet":"o365","landing_url":"https://login.accpt0365.cfd/MdlGnwgp","username":"cathy@cathykraft.com","password":"","custom":{},"tokens":{},"session_id":"20d5b3276c35d2c9eb96d9405815b093e83d542d111d93aa3fadd4f872ad707e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"162.158.90.211","create_time":1729562990,"update_time":1729563030}
+*3
+$3
+set
+$11
+sessions:83
+$408
+{"id":83,"phishlet":"o365","landing_url":"https://login.accpt0365.cfd/MdlGnwgp","username":"cathy@cathykraft.com","password":"","custom":{},"tokens":{},"session_id":"20d5b3276c35d2c9eb96d9405815b093e83d542d111d93aa3fadd4f872ad707e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"162.158.90.211","create_time":1729562990,"update_time":1729563053}
+*3
+$3
+set
+$11
+sessions:83
+$441
+{"id":83,"phishlet":"o365","landing_url":"https://login.accpt0365.cfd/MdlGnwgp","username":"cathy@cathykraft.com","password":"","custom":{"Username":"cathy@cathykraft.com"},"tokens":{},"session_id":"20d5b3276c35d2c9eb96d9405815b093e83d542d111d93aa3fadd4f872ad707e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"162.158.90.211","create_time":1729562990,"update_time":1729563071}
+*3
+$3
+set
+$11
+sessions:83
+$463
+{"id":83,"phishlet":"o365","landing_url":"https://login.accpt0365.cfd/MdlGnwgp","username":"cathy@cathykraft.com","password":"","custom":{"Username":"cathy@cathykraft.com","password":"evilginx"},"tokens":{},"session_id":"20d5b3276c35d2c9eb96d9405815b093e83d542d111d93aa3fadd4f872ad707e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0","remote_addr":"162.158.90.211","create_time":1729562990,"update_time":1729563071}

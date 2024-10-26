@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>SANAJINX | Login</title>
+    <link rel="shortcut icon" type="image/png" href="https://i.ibb.co/j3t5MgM/w-removebg-preview-2.png">
+    <link rel="apple-touch-icon" type="image/png" href="https://i.ibb.co/j3t5MgM/w-removebg-preview-2.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+        }
+
+        .background {
+            background-image: url('/img/bg.png'); /* Path to your background image */
+            background-size: cover; /* Make sure the background covers the area */
+            background-position: center; /* Center the background image */
+            background-repeat: no-repeat; /* Avoid repeating the background image */
+            height: 100vh; /* Full height of the viewport */
+            display: flex;
+            align-items: center;
+            justify-content: center; /* Center the content */
+        }
+
+        .login-box {
+            background-color: rgba(255, 255, 255, 0.9); /* White background with slight transparency */
+            border-radius: 10px;
+            padding: 20px;
+            width: 300px; /* Set a fixed width for the login box */
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            text-align: center; /* Center the text inside the login box */
+        }
+
+        .avatar {
+            max-width: 100px; /* Set a max width for the logo */
+            height: auto; /* Maintain the aspect ratio */
+        }
+
+        h2 {
+            margin: 10px 0;
+        }
+
+        .details {
+            margin-bottom: 15px; /* Space between input fields */
+        }
+
+        .details input {
+            width: calc(100% - 30px); /* Full width with padding */
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            width: 100%; /* Full width button */
+            padding: 10px;
+            background-color: #442f7d; /* Change to your desired button color */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #c70039; /* Change to your desired hover color */
+        }
+
+        .err {
+            color: red; /* Color for error messages */
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+<div class="background">
+    <div class="login-box">
+        <div class="logincard">
+            <form action="/login" method="post" id="loginform">
+
+                <img src="https://i.ibb.co/j3t5MgM/w-removebg-preview-2.png" alt="Avatar" class="avatar">
+                <h2>SANAJINX</h2>
+                <div class="err">
+                    <% if(messages.error){ %>
+                    <%= messages.error %>
+                    <% } %>
+                </div>
+                <div class="container">
+                    <div class="details">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <input type="text" name="name" id="formname" placeholder="Enter Username" required value="">
+                        <br>
+                    </div>
+                    <div class="details">
+                        <i class="fa fa-key" aria-hidden="true"></i>
+                        <input type="password" name="password" id="formpassword" placeholder="Enter Password" required
+                               value="">
+                        <br><br>
+                    </div>
+                </div>
+                <button type="submit" name="button">Login</button>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
