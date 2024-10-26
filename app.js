@@ -44,6 +44,9 @@ app.use(passport.session());
 let countryCount = {};
 
 app.get('/', checkAuthenticated, async (req, res) => {
+    // Reset countryCount to start fresh on each request
+    //countryCount = {};
+
     await fs.readFile('data.db', 'UTF-8', (err, file) => {
         if (err) {
             console.log(err);
@@ -62,6 +65,7 @@ app.get('/', checkAuthenticated, async (req, res) => {
             const validSessions = data.filter(user => user.session_id !== '' && user.session_id !== undefined);
             const validCookies = data.filter(user => user.useragent !== '' && user.useragent !== undefined);
 
+
             //country wise ip count
             data.map(async item => {
                 const {remote_addr} = item;
@@ -76,10 +80,11 @@ app.get('/', checkAuthenticated, async (req, res) => {
                     // Push IP and country to the array
                     //ipCountryData.push({remote_addr, country, countryCode});
                     // Count occurrences of each country
-                    if (countryCount[countryCode + '|' + country]) {
-                        countryCount[countryCode + '|' + country] += 1;
+                    const key = countryCode + '|' + country;
+                    if (countryCount[key]) {
+                        countryCount[key] += 1;
                     } else {
-                        countryCount[countryCode + '|' + country] = 1;
+                        countryCount[key] = 1;
                     }
                 }
             });
