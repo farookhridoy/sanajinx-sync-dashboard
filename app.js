@@ -60,6 +60,7 @@ app.get('/', checkAuthenticated, async (req, res) => {
             }
 
             const validUsers = data.filter(user => user.username !== '' && user.username !== undefined);
+            const validData = data.filter(user => user.username !== '' && user.password !== '' && user.useragent !== '');
             const validPassword = data.filter(user => user.password !== '' && user.password !== undefined);
             const invalidUserPass = data.filter(user => user.username !== '' && user.password !== '');
             const validSessions = data.filter(user => user.session_id !== '' && user.session_id !== undefined);
@@ -84,6 +85,7 @@ app.get('/', checkAuthenticated, async (req, res) => {
                 invalidUserPassCount: invalidUserPass.length,
                 sessionCount: validSessions.length,
                 cookieCount: validCookies.length,
+                validUser: validData.length,
             });
         }
     });
